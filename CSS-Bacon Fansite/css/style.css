@@ -1,0 +1,25 @@
+/*--------Tag Selector-----------------*/
+
+h1 {
+    color: aquamarine;
+    font-size: 100px;
+}
+
+img:hover {
+    background-color: gold;
+}
+/*---------- Class selector --------------------*/
+
+.pizza {
+    background-color: red;
+}
+
+.hotdog {
+    background-color: green;
+}
+
+/*----------ID slector ---------------*/
+
+#heading {
+    color: red;
+}
